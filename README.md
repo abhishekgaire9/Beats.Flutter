@@ -1,6 +1,6 @@
 # Beats.Flutter
 
-Beats is a music app developed using Flutter and Dart. The app provides a seamless music listening experience with a user-friendly interface, enabling users to explore, play, and manage their favorite tracks effortlessly.
+Beats is a music app developed using Flutter. The app provides a seamless music listening experience with a user-friendly interface, enabling users to explore, play, and manage their favorite tracks effortlessly.
 
 1. App Icon and Splash Screen![pic2](https://github.com/user-attachments/assets/757dfcaa-9b50-4874-b040-aa15838edc5f)
 
