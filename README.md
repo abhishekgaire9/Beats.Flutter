@@ -1,6 +1,9 @@
-# MODERN LOGIN UI x FLUTTER
-
-Watch tutorial here: https://youtu.be/Dh-cTQJgM-Q
-
-![72692840-4960-4603-B21E-3BC8442AA19F](https://user-images.githubusercontent.com/29016489/206952739-29d2403c-c26b-472f-9f4d-fdc0e1458326.JPG)
 # Beats.Flutter
+
+Beats is a music app developed using Flutter and Dart. The app provides a seamless music listening experience with a user-friendly interface, enabling users to explore, play, and manage their favorite tracks effortlessly.
+
+1. App Icon and Splash Screen![pic2](https://github.com/user-attachments/assets/757dfcaa-9b50-4874-b040-aa15838edc5f)
+
+2. Sign In page![pic1](https://github.com/user-attachments/assets/a1aa350d-f8a1-4f0e-9039-b74be52faf45)
+
+3. Music list and controller![pic4](https://github.com/user-attachments/assets/f8784310-b29d-426f-afe2-0a2e0b53d380)
